@@ -4,4 +4,4 @@
 
 ### Github
 
-Git and github
+Git and github basics

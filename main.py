@@ -1,3 +1,5 @@
 a=10
 b=20
-print(a+b)
+print("addition",a+b)
+print("subtraction",a-b)
+print("multiplication",a*b)
